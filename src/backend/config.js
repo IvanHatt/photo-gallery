@@ -2,6 +2,7 @@ import firebase from 'firebase/app'
 import 'firebase/storage'
 import 'firebase/firestore'
 import firebaseConfig from './default.json'
+//config api keys not committed
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig)
