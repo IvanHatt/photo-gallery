@@ -7,6 +7,7 @@ const ImageGrid = ({ setSelectedImg }) => {
 
   return (
     <div className='img-grid'>
+      {(!docs || docs.length === 0) && <div> No pictures yet ...</div>}
       {docs &&
         docs.map((doc) => (
           <motion.div
