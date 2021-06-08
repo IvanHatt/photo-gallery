@@ -1,4 +1,8 @@
-PHOTO GALLERY
+# PHOTO GALLERY
 
-Technologies:
-React (with hooks), Firebase Storage, Firebase Database, Framer Motion (animation) 
+### Technologies:
+- React (with hooks)
+- Firebase Storage
+- Firebase Database
+- Framer Motion (animation) 
+
